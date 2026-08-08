@@ -381,24 +381,3 @@ GeminiMan 360 Video Player does not require broad storage access for selecting l
 Browser and playback information required for app functionality is stored locally.
 
 Sensitive browser sessions and playback authentication are intentionally excluded from sanitized cloud/device-transfer backups.
-
----
-
-## 📄 License
-
-Please refer to the repository's license file for the terms that apply to the source code and project assets.
-
----
-
-## 👨‍💻 Developer
-
-**GeminiMan**
-
-Built with passion, experimentation, and a lot of testing ♡
-
----
-
-<p align="center">
-  <strong>GeminiMan 360 Video Player</strong><br>
-  Local • Online • 360° • Fake 360 • Cardboard • Stream Detection
-</p>
