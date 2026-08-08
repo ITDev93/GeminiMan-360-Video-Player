@@ -1,10 +1,10 @@
 # 🌍 GeminiMan 360 Video Player
 
-<p align="center">
+<p>
   <strong>Local, online, 360°, panoramic and immersive video playback for Android.</strong>
 </p>
 
-<p align="center">
+<p>
   Watch immersive videos using touch and motion controls, browse websites for playable streams, save useful links, and even give ordinary flat videos a curved Fake 360 viewing experience.
 </p>
 
